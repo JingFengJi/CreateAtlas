@@ -19,7 +19,7 @@ Atlas.ini图集配置文件
 支持一键全选、取消勾选功能。
 勾选好图集，一键打图集按钮即可打图集。
 
-![Alt text](https://coding.net/u/JingFengJi/p/UnityTools/git/blob/master/Photo/TexturePacker.png)
+![Alt text](https://github.com/JingFengJi/CreateAtlas/blob/master/Photo/TexturePacker.png)
 
 ## 命令行打图集
 TexturePacker工具支持使用命令行打图集。
@@ -47,7 +47,7 @@ NGUIJson.LoadSpriteData(uiAtlas, atlasTextAsset);
 
 菜单栏Tools->CopyAtlasData
 
-![Alt text](https://coding.net/u/JingFengJi/p/UnityTools/git/blob/master/Photo/CopyAtlasData.png)
+![Alt text](https://github.com/JingFengJi/CreateAtlas/blob/master/Photo/CopyAtlasData.png)
 
 ## 清理Editor进度条
 为避免Atlas.ini配置错误，导致打图集中断，而EditorUtility.DisplayProgressBar进度条无法清除，提供Editor进度条清理功能，菜单栏Tools->清理进度条
